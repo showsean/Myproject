@@ -1,0 +1,713 @@
+IAResourceBundle: create resource bundle: en
+__________________________________________________________________________
+
+InstallAnywhere 8.0.1 Enterprise
+__________________________________________________________________________
+
+Tue Aug 30 14:32:50 CST 2016
+
+Free Memory: 14999 kB
+Total Memory: 16320 kB
+
+No Arguments
+
+java.class.path:
+    C:\Users\G\AppData\Local\Temp\I1472538752\InstallerData\IAClasses.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jdglue.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\InstallerData\Resource1.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\InstallerData\Resource1.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\InstallerData
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\G\AppData\Local\Temp\I1472538752\InstallerData\IAClasses.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jdglue.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472538752\InstallerData
+
+sun.boot.class.path:
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre\lib\rt.jar
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre\lib\i18n.jar
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre\lib\jsse.jar
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre\lib\jce.jar
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre\lib\charsets.jar
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre\lib\ext
+
+java.version                  == 1.5.0_13 (Java 2+)
+java.vm.name                  == Java HotSpot(TM) Client VM
+java.vm.vendor                == Sun Microsystems Inc.
+java.vm.version               == 1.5.0_13-b05
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Sun Microsystems Inc.
+java.vm.specification.version == 1.0
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Sun Microsystems Inc.
+java.specification.version    == 1.5
+java.vendor                   == Sun Microsystems Inc.
+java.vendor.url               == http://java.sun.com/
+java.class.version            == 49.0
+java.compiler                 == null
+java.home                     == C:\Users\G\AppData\Local\Temp\I1472538752\Windows\resource\jre
+java.io.tmpdir                == C:\Users\G\AppData\Local\Temp\
+os.name                       == Windows Vista
+os.arch                       == x86
+os.version                    == 6.1
+path.separator                == ;
+file.separator                == \
+file.encoding                 == GBK
+user.name                     == G
+user.home                     == C:\Users\G
+user.dir                      == C:\Users\G\AppData\Local\Temp\I1472538752\Windows
+user.language                 == zh
+user.region                   == null
+__________________________________________________________________________
+
+Installer: InstallAnywhere 8.0.1 Enterprise Build 3081
+__________________________________________________________________________
+
+System's temporary directory = C:\Users\G\AppData\Local\Temp
+IAResourceBundle: create resource bundle: zh_CN
+
+
+
+Loading externalized properties
+Installer running in different from input language
+
+Checking for Admin Privs...
+ExtractToFile: target = C:\Users\G\AppData\Local\Temp\015641.tmp\winInfo.exe
+ExtractToFile: extractWhatURL = jar:file:/C:/Users/G/AppData/Local/Temp/I1472538752/InstallerData/Execute.zip!/winInfo.exe
+Loading variable from Metabase: SUPPORT_ARCH_32=true
+Loading variable from Metabase: SUPPORT_ARCH_64=
+Loading variable from Metabase: SUPPORT_ARCH_X64=
+SHUTDOWN REQUESTED
+(X) commiting registry
+(X) shutting down service manager
+(X) cleaning up temporary directories
+cleanUp()
+calling cleanUpWin32()
+
+Exiting with exit code: 1000
+IAResourceBundle: create resource bundle: en
+__________________________________________________________________________
+
+InstallAnywhere 2009
+Version: 10.0
+__________________________________________________________________________
+
+Tue Aug 30 14:49:54 CST 2016
+
+Free Memory: 13256 kB
+Total Memory: 15872 kB
+
+No Arguments
+
+java.class.path:
+    C:\Users\G\AppData\Local\Temp\I1472539767\InstallerData\IAClasses.zip
+    C:\Users\G\AppData\Local\Temp\I1472539767\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472539767\InstallerData\Resource1.zip
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\InstallerData\Resource1.zip
+    C:\Users\G\AppData\Local\Temp\I1472539767\InstallerData
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\G\AppData\Local\Temp\I1472539767\InstallerData\IAClasses.zip
+    C:\Users\G\AppData\Local\Temp\I1472539767\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472539767\InstallerData
+
+sun.boot.class.path:
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\lib\resources.jar
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\lib\rt.jar
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\lib\jsse.jar
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\lib\jce.jar
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\lib\charsets.jar
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\lib\modules\jdk.boot.jar
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre\lib\ext
+    C:\Windows\Sun\Java\lib\ext
+
+java.version                  == 1.6.0_45 (Java 1)
+java.vm.name                  == Java HotSpot(TM) Client VM
+java.vm.vendor                == Sun Microsystems Inc.
+java.vm.version               == 20.45-b01
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Sun Microsystems Inc.
+java.vm.specification.version == 1.0
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Sun Microsystems Inc.
+java.specification.version    == 1.6
+java.vendor                   == Sun Microsystems Inc.
+java.vendor.url               == http://java.sun.com/
+java.class.version            == 50.0
+java.compiler                 == null
+java.home                     == C:\Users\G\AppData\Local\Temp\I1472539767\Windows\resource\jre
+java.io.tmpdir                == C:\Users\G\AppData\Local\Temp\
+os.name                       == Windows 7
+os.arch                       == x86
+os.version                    == 6.1
+path.separator                == ;
+file.separator                == \
+file.encoding                 == GBK
+user.name                     == G
+user.home                     == C:\Users\G
+user.dir                      == C:\Users\G\AppData\Local\Temp\I1472539767\Windows
+user.language                 == zh
+user.region                   == null
+__________________________________________________________________________
+
+IAResourceBundle: create resource bundle: zh_CN
+
+
+
+Loading externalized properties
+Installer running in different from input language
+System's temporary directory = C:\Users\G\AppData\Local\Temp
+
+Localizing FULL_INSTALLATION
+Localization result: Select this choice to install all of the software required for your configuration. If the multi-path driver is required, you must install and configure it separately.
+Substituted: Select this choice to install all of the software required for your configuration. If the multi-path driver is required, you must install and configure it separately.
+Localizing HOST_INSTALLATION
+Localization result: Select this choice to install storage subsystem server software in the host(server) connected to the storage subsystem. If the multi-path driver is required, you must install it seperately.
+Substituted: Select this choice to install storage subsystem server software in the host(server) connected to the storage subsystem. If the multi-path driver is required, you must install it seperately.
+Localizing MGMTSTA_INSTALLATION
+Localization result: Select this choice to install the storage subsystem management software on your workstation or on your primary management station.
+Substituted: Select this choice to install the storage subsystem management software on your workstation or on your primary management station.
+Localizing SHORTCUT_PARENT_DIR_NAME
+Localization result: DS Storage Manager 10 Client
+Substituted: DS Storage Manager 10 Client
+Localizing CUSTOM_INSTALLATION
+Localization result: Select this choice if you want to customize the features to be installed or to install Java Accessibility Bridge, which enables the accessibility features for the software.
+Substituted: Select this choice if you want to customize the features to be installed or to install Java Accessibility Bridge, which enables the accessibility features for the software.
+Localizing PRODUCT_NAME
+Localization result: IBM System Storage DS Storage Manager 10
+Substituted: IBM System Storage DS Storage Manager 10
+Localizing INSTALLER_TITLE
+Localization result: Install IBM System Storage DS Storage Manager 10
+Substituted: Install IBM System Storage DS Storage Manager 10
+Localizing CLIENT_NAME
+Localization result: DS Storage Manager 10 Client
+Substituted: DS Storage Manager 10 Client
+Localizing SHORTCUT_NAME
+Localization result: DS Storage Manager 10 Client
+Substituted: DS Storage Manager 10 Client
+Localizing AGENT_NAME
+Localization result: DS Storage Manager 10 Agent
+Substituted: DS Storage Manager 10 Agent
+Localizing SAVE_AGENT_NAME
+Localization result: DS Storage Manager 10 Agent
+Substituted: DS Storage Manager 10 Agent
+Localizing RDAC_NAME
+Localization result: IBM DS3000/DS4000/DS5000 MPIO Device Specific Module (DSM)
+Substituted: IBM DS3000/DS4000/DS5000 MPIO Device Specific Module (DSM)
+Localizing UTILS_NAME
+Localization result: DS Storage Manager 10 Utilities
+Substituted: DS Storage Manager 10 Utilities
+Localizing MPIO_NAME
+Localization result: IBM DS3000/DS4000/DS5000 MPIO Device Specific Module (DSM)
+Substituted: IBM DS3000/DS4000/DS5000 MPIO Device Specific Module (DSM)
+Localizing MPIO_DESCRIPTION
+Localization result: an IBM DS-specific DSM to work within the Microsoft MPIO infrastructure which provides automated I/O path failover, failback and multiple path handling
+Substituted: an IBM DS-specific DSM to work within the Microsoft MPIO infrastructure which provides automated I/O path failover, failback and multiple path handling
+Localizing MPIO_SHORT_NAME
+Localization result: IBM DS3000/DS4000/DS5000 DSM
+Substituted: IBM DS3000/DS4000/DS5000 DSM
+Localizing MPP_NAME
+Localization result: DS Storage Manager 10 RDAC
+Substituted: DS Storage Manager 10 RDAC
+Localizing MPP_DESCRIPTION
+Localization result: The Linux RDAC driver enables the logical drives to be automatically re-assigned to another controller in the event of a controller failure in a dual controller storage subsystem. Install this driver on all servers that are connected to the DS3/4/5000 storage subsystems via the I/O interface.
+Substituted: The Linux RDAC driver enables the logical drives to be automatically re-assigned to another controller in the event of a controller failure in a dual controller storage subsystem. Install this driver on all servers that are connected to the DS3/4/5000 storage subsystems via the I/O interface.
+Localizing MPP_SHORT_NAME
+Localization result: LinuxRDAC
+Substituted: LinuxRDAC
+Localizing MONITOR_SERVICE_NAME
+Localization result: IBM DS Storage Manager 10 Event Monitor
+Substituted: IBM DS Storage Manager 10 Event Monitor
+Localizing MONITOR_DISPLAY_NAME
+Localization result: IBM DS Storage Manager 10 Event Monitor
+Substituted: IBM DS Storage Manager 10 Event Monitor
+Localizing SUPPORT_URL
+Localization result: http://www.ibm.com/support/entry/portal/
+Substituted: http://www.ibm.com/support/entry/portal/
+Localizing CLIENT_DESCRIPTION
+Localization result: The Storage Manager 10 Client is used to configure, manage, and monitor the DS3000, DS4000 and DS5000 storage subsystems. This application can be installed on workstations or servers. It also installs the SM Event Monitor service. A subsequent screen asks you to choose how to start the service.
+Substituted: The Storage Manager 10 Client is used to configure, manage, and monitor the DS3000, DS4000 and DS5000 storage subsystems. This application can be installed on workstations or servers. It also installs the SM Event Monitor service. A subsequent screen asks you to choose how to start the service.
+Localizing AGENT_DESCRIPTION
+Localization result: This agent enables server-based configuration, management, and monitoring through the Storage Manager 10 Client using the FC, iSCSI or SAS interface from  server to DS3000, DS4000 or DS5000 subsystems. This agent should only be installed on servers. Multi-path driver might also need to be installed.
+Substituted: This agent enables server-based configuration, management, and monitoring through the Storage Manager 10 Client using the FC, iSCSI or SAS interface from  server to DS3000, DS4000 or DS5000 subsystems. This agent should only be installed on servers. Multi-path driver might also need to be installed.
+Localizing UTIL_DESCRIPTION
+Localization result: This software component contains utilities used to help register and map logical drives to the operating system. Install this feature on all servers that are connected to the DS3000, DS4000 or DS5000 storage subsystem via an I/O interface (Fibre Channel, iSCSI or SAS).
+Substituted: This software component contains utilities used to help register and map logical drives to the operating system. Install this feature on all servers that are connected to the DS3000, DS4000 or DS5000 storage subsystem via an I/O interface (Fibre Channel, iSCSI or SAS).
+Localizing RDAC_DESCRIPTION
+Localization result: The MPIO DSM driver enables the logical drives to be automatically re-assigned to another controller in the event of a controller failure in a dual controller storage subsystem. Install this driver on all servers that are connected to the DS3/4/5000 storage subsystems via the I/O interface.
+Substituted: The MPIO DSM driver enables the logical drives to be automatically re-assigned to another controller in the event of a controller failure in a dual controller storage subsystem. Install this driver on all servers that are connected to the DS3/4/5000 storage subsystems via the I/O interface.
+Localizing SUPPORT_PHONE_NUMBER
+Localization result: 1-800-426-7378
+Substituted: 1-800-426-7378
+Localizing PRODUCT_UPDATE_URL
+Localization result: http://www.ibm.com/support/entry/portal/
+Substituted: http://www.ibm.com/support/entry/portal/
+Localizing VENDOR_NAME
+Localization result: IBM Corporation
+Substituted: IBM Corporation
+Localizing VENDOR_URL
+Localization result: http://www.ibm.com/systems/storage/disk
+Substituted: http://www.ibm.com/systems/storage/disk
+Localizing VENDOR_EMAIL
+Localization result: IBM Customer and Technical Support
+Substituted: IBM Customer and Technical Support
+Localizing COPYRIGHT_STATEMENT
+Localization result: IBM System Storage DS Storage Manager
+ (Enterprise Management)
+(C) Copyright International Business Machines Corporation, 
+2003-2013 Licensed Material - 
+Program Property of IBM 
+All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication, or 
+disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+IBM Support URL=http://www.ibm.com/support/entry/portal/
+Substituted: IBM System Storage DS Storage Manager
+ (Enterprise Management)
+(C) Copyright International Business Machines Corporation, 
+2003-2013 Licensed Material - 
+Program Property of IBM 
+All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication, or 
+disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+IBM Support URL=http://www.ibm.com/support/entry/portal/
+Localizing COMMENTS
+Localization result: 
+Substituted: 
+Localizing LAX_FILE_NAME
+Localization result: DS Storage Manager 10 Client
+Substituted: DS Storage Manager 10 Client
+Localizing ADD_REMOVE_DISPLAY
+Localization result: IBM DS Storage Manager Host Software version
+Substituted: IBM DS Storage Manager Host Software version
+Localizing TEKPROFILER_NAME
+Localization result: Support Monitor
+Substituted: Support Monitor
+Localizing TEKPROFILER_DESCRIPTION
+Localization result: The Support Monitor is a web-based application that can be configured to automatically collect support data for the storage subsystems managed by the storage management software.  You can optionally upgrade the Support Monitor to provide extended functionality, including trend and usage analysis.
+Substituted: The Support Monitor is a web-based application that can be configured to automatically collect support data for the storage subsystems managed by the storage management software.  You can optionally upgrade the Support Monitor to provide extended functionality, including trend and usage analysis.
+Localizing NATIVE_DIR
+Localization result: /opt/IBM_DS
+Substituted: /opt/IBM_DS
+Localizing TEKPROFILER_SUBDIR
+Localization result: IBMStorageManagerProfiler Server
+Substituted: IBMStorageManagerProfiler Server
+Localizing TEKPROFILER_SUBDIR_NATIVE
+Localization result: IBMStorageManagerProfiler_Server
+Substituted: IBMStorageManagerProfiler_Server
+Loading variable from Metabase: SUPPORT_WINDOWS_8=true
+Checking for Admin Privs...
+value Path doesn't exist
+ExtractToFile: target = C:\Users\G\AppData\Local\Temp\301488.tmp\winInfo.exe
+ExtractToFile: extractWhatURL = jar:file:/C:/Users/G/AppData/Local/Temp/I1472539767/InstallerData/Execute.zip!/winInfo.exe
+Loading variable from Metabase: SUPPORT_ARCH_32=
+Loading variable from Metabase: SUPPORT_ARCH_64=
+Loading variable from Metabase: SUPPORT_ARCH_X64=true
+Localizing COMMENTS
+Localization result: Storage Manager Client v$CLIENT_VERSION$, Storage Manager Agent v$AGENT_VERSION$, Storage Manager RDAC v$MPP_VERSION$, Storage Manager Utilities v$UTIL_VERSION$
+Substituted: Storage Manager Client v10.86.0G05.0043, Storage Manager Agent v10.02.0305.0000, Storage Manager RDAC v0, Storage Manager Utilities v10.01.0305.0000
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+Localizing WINDOWS_AUTO_WARN
+Localization result: A subsequent screen asks you to choose how to start the monitor.
+Substituted: A subsequent screen asks you to choose how to start the monitor.
+Localizing WINDOWS_JAB_NOTE
+Localization result: Also, if needed, use this option to install the Java Accessibility Bridge.
+Substituted: Also, if needed, use this option to install the Java Accessibility Bridge.
+Localizing AUTO_START_NOTE
+Localization result: Important: 
+- You must start the monitoring service to use the following features: (1) Alert generation/delivery, and (2) Support bundle collection.
+- It is best to only start the event monitor on a single machine that has 24 hour-access to the storage arrays.
+Substituted: Important: 
+- You must start the monitoring service to use the following features: (1) Alert generation/delivery, and (2) Support bundle collection.
+- It is best to only start the event monitor on a single machine that has 24 hour-access to the storage arrays.
+Localizing AUTO_START_NOTE_CATERA
+Localization result: Important: 
+- You must start the monitoring service to use the following features: (1) Alert generation/delivery, and (2) Support bundle collection.
+- It is best to only start the event monitor on a single machine that has 24 hour-access to the storage subsystem.
+Substituted: Important: 
+- You must start the monitoring service to use the following features: (1) Alert generation/delivery, and (2) Support bundle collection.
+- It is best to only start the event monitor on a single machine that has 24 hour-access to the storage subsystem.
+Localizing AUTO_START_QUESTION
+Localization result: The $MONITOR_NAME$ will be installed. 
+Substituted: The IBM DS Storage Manager 10 Event Monitor will be installed. 
+Localizing AUTO_START_BUTTON_INFO_0
+Localization result: Automatically start monitor:;Automatically start the monitor when the installation completes and whenever the computer is rebooted.
+Substituted: Automatically start monitor:;Automatically start the monitor when the installation completes and whenever the computer is rebooted.
+Localizing AUTO_START_BUTTON_INFO_1
+Localization result: Do not automatically start the monitor:;Instead of automatically starting the monitor, you will need to start the monitor service manually.
+Substituted: Do not automatically start the monitor:;Instead of automatically starting the monitor, you will need to start the monitor service manually.
+Localizing AUTO_START_TITLE
+Localization result: Automatically Start Monitor?
+Substituted: Automatically Start Monitor?
+layoutButtonPanel: m_Buttons.getSelection(): null
+layoutButtonPanel: Disabling Next button
+actionPerformed: Enabling Next button
+actionPerformed: selected Radio button: 1
+Setting value AUTO_START_CHOICE: 1
+Required is  : 434000128
+Available is : 18663297024
+Able to install : TRUE
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+CDS: Assuming sufficient disk space. (V)
+#
+# INSTALLING VM: C:\Program Files (x86)\IBM_DS\ia\jre
+#
+XMLScriptWriter: No Installation Objects were skipped
+ExtractToFile: target = C:\Program Files (x86)\IBM_DS\Uninstall IBM System Storage DS Storage Manager 10\Uninstall IBM System Storage DS Storage Manager 10.exe
+ExtractToFile: extractWhatURL = jar:file:/C:/Users/G/AppData/Local/Temp/I1472539767/InstallerData/Execute.zip!/makeExecutable/lax_gui_admin.exe
+Key_Only && trueParentKey = true.
+Localizing COMMENTS_STRING
+Localization result: SMclient (v$ACTUAL_CLIENT_VERSION$)
+Substituted: SMclient (v10.86.0G05.0043)
+Retrying Installables deferred in pass 0
+Deferral retries done because: 
+There were no deferrals in the last pass.
+RepositoryManager: repository successfully written to stable storage
+RepositoryManager: repository successfully written to stable storage
+Localizing PRODUCT_NAME
+Localization result: IBM System Storage DS Storage Manager 10
+Substituted: IBM System Storage DS Storage Manager 10
+SHUTDOWN REQUESTED
+(X) commiting registry
+
+REGISTRY ALREADY STORED!
+
+(X) shutting down service manager
+(X) cleaning up temporary directories
+cleanUp()
+calling cleanUpWin32()
+
+Exiting with exit code: 0
+IAResourceBundle: create resource bundle: en
+__________________________________________________________________________
+
+InstallAnywhere 2009
+Version: 10.0
+__________________________________________________________________________
+
+Tue Aug 30 14:56:47 CST 2016
+
+Free Memory: 13256 kB
+Total Memory: 15872 kB
+
+No Arguments
+
+java.class.path:
+    C:\Users\G\AppData\Local\Temp\I1472540179\InstallerData\IAClasses.zip
+    C:\Users\G\AppData\Local\Temp\I1472540179\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472540179\InstallerData\Resource1.zip
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\InstallerData\Resource1.zip
+    C:\Users\G\AppData\Local\Temp\I1472540179\InstallerData
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\G\AppData\Local\Temp\I1472540179\InstallerData\IAClasses.zip
+    C:\Users\G\AppData\Local\Temp\I1472540179\InstallerData\Execute.zip
+    C:\Users\G\AppData\Local\Temp\I1472540179\InstallerData
+
+sun.boot.class.path:
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\lib\resources.jar
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\lib\rt.jar
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\lib\jsse.jar
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\lib\jce.jar
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\lib\charsets.jar
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\lib\modules\jdk.boot.jar
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre\lib\ext
+    C:\Windows\Sun\Java\lib\ext
+
+java.version                  == 1.6.0_45 (Java 1)
+java.vm.name                  == Java HotSpot(TM) Client VM
+java.vm.vendor                == Sun Microsystems Inc.
+java.vm.version               == 20.45-b01
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Sun Microsystems Inc.
+java.vm.specification.version == 1.0
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Sun Microsystems Inc.
+java.specification.version    == 1.6
+java.vendor                   == Sun Microsystems Inc.
+java.vendor.url               == http://java.sun.com/
+java.class.version            == 50.0
+java.compiler                 == null
+java.home                     == C:\Users\G\AppData\Local\Temp\I1472540179\Windows\resource\jre
+java.io.tmpdir                == C:\Users\G\AppData\Local\Temp\
+os.name                       == Windows 7
+os.arch                       == x86
+os.version                    == 6.1
+path.separator                == ;
+file.separator                == \
+file.encoding                 == GBK
+user.name                     == G
+user.home                     == C:\Users\G
+user.dir                      == C:\Users\G\AppData\Local\Temp\I1472540179\Windows
+user.language                 == zh
+user.region                   == null
+__________________________________________________________________________
+
+IAResourceBundle: create resource bundle: zh_CN
+
+
+
+Loading externalized properties
+Installer running in different from input language
+System's temporary directory = C:\Users\G\AppData\Local\Temp
+
+Localizing FULL_INSTALLATION
+Localization result: Select this choice to install all of the software required for your configuration. If the multi-path driver is required, you must install and configure it separately.
+Substituted: Select this choice to install all of the software required for your configuration. If the multi-path driver is required, you must install and configure it separately.
+Localizing HOST_INSTALLATION
+Localization result: Select this choice to install storage subsystem server software in the host(server) connected to the storage subsystem. If the multi-path driver is required, you must install it seperately.
+Substituted: Select this choice to install storage subsystem server software in the host(server) connected to the storage subsystem. If the multi-path driver is required, you must install it seperately.
+Localizing MGMTSTA_INSTALLATION
+Localization result: Select this choice to install the storage subsystem management software on your workstation or on your primary management station.
+Substituted: Select this choice to install the storage subsystem management software on your workstation or on your primary management station.
+Localizing SHORTCUT_PARENT_DIR_NAME
+Localization result: DS Storage Manager 10 Client
+Substituted: DS Storage Manager 10 Client
+Localizing CUSTOM_INSTALLATION
+Localization result: Select this choice if you want to customize the features to be installed or to install Java Accessibility Bridge, which enables the accessibility features for the software.
+Substituted: Select this choice if you want to customize the features to be installed or to install Java Accessibility Bridge, which enables the accessibility features for the software.
+Localizing PRODUCT_NAME
+Localization result: IBM System Storage DS Storage Manager 10
+Substituted: IBM System Storage DS Storage Manager 10
+Localizing INSTALLER_TITLE
+Localization result: Install IBM System Storage DS Storage Manager 10
+Substituted: Install IBM System Storage DS Storage Manager 10
+Localizing CLIENT_NAME
+Localization result: DS Storage Manager 10 Client
+Substituted: DS Storage Manager 10 Client
+Localizing SHORTCUT_NAME
+Localization result: DS Storage Manager 10 Client
+Substituted: DS Storage Manager 10 Client
+Localizing AGENT_NAME
+Localization result: DS Storage Manager 10 Agent
+Substituted: DS Storage Manager 10 Agent
+Localizing SAVE_AGENT_NAME
+Localization result: DS Storage Manager 10 Agent
+Substituted: DS Storage Manager 10 Agent
+Localizing RDAC_NAME
+Localization result: IBM DS3000/DS4000/DS5000 MPIO Device Specific Module (DSM)
+Substituted: IBM DS3000/DS4000/DS5000 MPIO Device Specific Module (DSM)
+Localizing UTILS_NAME
+Localization result: DS Storage Manager 10 Utilities
+Substituted: DS Storage Manager 10 Utilities
+Localizing MPIO_NAME
+Localization result: IBM DS3000/DS4000/DS5000 MPIO Device Specific Module (DSM)
+Substituted: IBM DS3000/DS4000/DS5000 MPIO Device Specific Module (DSM)
+Localizing MPIO_DESCRIPTION
+Localization result: an IBM DS-specific DSM to work within the Microsoft MPIO infrastructure which provides automated I/O path failover, failback and multiple path handling
+Substituted: an IBM DS-specific DSM to work within the Microsoft MPIO infrastructure which provides automated I/O path failover, failback and multiple path handling
+Localizing MPIO_SHORT_NAME
+Localization result: IBM DS3000/DS4000/DS5000 DSM
+Substituted: IBM DS3000/DS4000/DS5000 DSM
+Localizing MPP_NAME
+Localization result: DS Storage Manager 10 RDAC
+Substituted: DS Storage Manager 10 RDAC
+Localizing MPP_DESCRIPTION
+Localization result: The Linux RDAC driver enables the logical drives to be automatically re-assigned to another controller in the event of a controller failure in a dual controller storage subsystem. Install this driver on all servers that are connected to the DS3/4/5000 storage subsystems via the I/O interface.
+Substituted: The Linux RDAC driver enables the logical drives to be automatically re-assigned to another controller in the event of a controller failure in a dual controller storage subsystem. Install this driver on all servers that are connected to the DS3/4/5000 storage subsystems via the I/O interface.
+Localizing MPP_SHORT_NAME
+Localization result: LinuxRDAC
+Substituted: LinuxRDAC
+Localizing MONITOR_SERVICE_NAME
+Localization result: IBM DS Storage Manager 10 Event Monitor
+Substituted: IBM DS Storage Manager 10 Event Monitor
+Localizing MONITOR_DISPLAY_NAME
+Localization result: IBM DS Storage Manager 10 Event Monitor
+Substituted: IBM DS Storage Manager 10 Event Monitor
+Localizing SUPPORT_URL
+Localization result: http://www.ibm.com/support/entry/portal/
+Substituted: http://www.ibm.com/support/entry/portal/
+Localizing CLIENT_DESCRIPTION
+Localization result: The Storage Manager 10 Client is used to configure, manage, and monitor the DS3000, DS4000 and DS5000 storage subsystems. This application can be installed on workstations or servers. It also installs the SM Event Monitor service. A subsequent screen asks you to choose how to start the service.
+Substituted: The Storage Manager 10 Client is used to configure, manage, and monitor the DS3000, DS4000 and DS5000 storage subsystems. This application can be installed on workstations or servers. It also installs the SM Event Monitor service. A subsequent screen asks you to choose how to start the service.
+Localizing AGENT_DESCRIPTION
+Localization result: This agent enables server-based configuration, management, and monitoring through the Storage Manager 10 Client using the FC, iSCSI or SAS interface from  server to DS3000, DS4000 or DS5000 subsystems. This agent should only be installed on servers. Multi-path driver might also need to be installed.
+Substituted: This agent enables server-based configuration, management, and monitoring through the Storage Manager 10 Client using the FC, iSCSI or SAS interface from  server to DS3000, DS4000 or DS5000 subsystems. This agent should only be installed on servers. Multi-path driver might also need to be installed.
+Localizing UTIL_DESCRIPTION
+Localization result: This software component contains utilities used to help register and map logical drives to the operating system. Install this feature on all servers that are connected to the DS3000, DS4000 or DS5000 storage subsystem via an I/O interface (Fibre Channel, iSCSI or SAS).
+Substituted: This software component contains utilities used to help register and map logical drives to the operating system. Install this feature on all servers that are connected to the DS3000, DS4000 or DS5000 storage subsystem via an I/O interface (Fibre Channel, iSCSI or SAS).
+Localizing RDAC_DESCRIPTION
+Localization result: The MPIO DSM driver enables the logical drives to be automatically re-assigned to another controller in the event of a controller failure in a dual controller storage subsystem. Install this driver on all servers that are connected to the DS3/4/5000 storage subsystems via the I/O interface.
+Substituted: The MPIO DSM driver enables the logical drives to be automatically re-assigned to another controller in the event of a controller failure in a dual controller storage subsystem. Install this driver on all servers that are connected to the DS3/4/5000 storage subsystems via the I/O interface.
+Localizing SUPPORT_PHONE_NUMBER
+Localization result: 1-800-426-7378
+Substituted: 1-800-426-7378
+Localizing PRODUCT_UPDATE_URL
+Localization result: http://www.ibm.com/support/entry/portal/
+Substituted: http://www.ibm.com/support/entry/portal/
+Localizing VENDOR_NAME
+Localization result: IBM Corporation
+Substituted: IBM Corporation
+Localizing VENDOR_URL
+Localization result: http://www.ibm.com/systems/storage/disk
+Substituted: http://www.ibm.com/systems/storage/disk
+Localizing VENDOR_EMAIL
+Localization result: IBM Customer and Technical Support
+Substituted: IBM Customer and Technical Support
+Localizing COPYRIGHT_STATEMENT
+Localization result: IBM System Storage DS Storage Manager
+ (Enterprise Management)
+(C) Copyright International Business Machines Corporation, 
+2003-2013 Licensed Material - 
+Program Property of IBM 
+All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication, or 
+disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+IBM Support URL=http://www.ibm.com/support/entry/portal/
+Substituted: IBM System Storage DS Storage Manager
+ (Enterprise Management)
+(C) Copyright International Business Machines Corporation, 
+2003-2013 Licensed Material - 
+Program Property of IBM 
+All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication, or 
+disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+IBM Support URL=http://www.ibm.com/support/entry/portal/
+Localizing COMMENTS
+Localization result: 
+Substituted: 
+Localizing LAX_FILE_NAME
+Localization result: DS Storage Manager 10 Client
+Substituted: DS Storage Manager 10 Client
+Localizing ADD_REMOVE_DISPLAY
+Localization result: IBM DS Storage Manager Host Software version
+Substituted: IBM DS Storage Manager Host Software version
+Localizing TEKPROFILER_NAME
+Localization result: Support Monitor
+Substituted: Support Monitor
+Localizing TEKPROFILER_DESCRIPTION
+Localization result: The Support Monitor is a web-based application that can be configured to automatically collect support data for the storage subsystems managed by the storage management software.  You can optionally upgrade the Support Monitor to provide extended functionality, including trend and usage analysis.
+Substituted: The Support Monitor is a web-based application that can be configured to automatically collect support data for the storage subsystems managed by the storage management software.  You can optionally upgrade the Support Monitor to provide extended functionality, including trend and usage analysis.
+Localizing NATIVE_DIR
+Localization result: /opt/IBM_DS
+Substituted: /opt/IBM_DS
+Localizing TEKPROFILER_SUBDIR
+Localization result: IBMStorageManagerProfiler Server
+Substituted: IBMStorageManagerProfiler Server
+Localizing TEKPROFILER_SUBDIR_NATIVE
+Localization result: IBMStorageManagerProfiler_Server
+Substituted: IBMStorageManagerProfiler_Server
+Loading variable from Metabase: SUPPORT_WINDOWS_8=true
+Checking for Admin Privs...
+value Path doesn't exist
+ExtractToFile: target = C:\Users\G\AppData\Local\Temp\431507.tmp\winInfo.exe
+ExtractToFile: extractWhatURL = jar:file:/C:/Users/G/AppData/Local/Temp/I1472540179/InstallerData/Execute.zip!/winInfo.exe
+Loading variable from Metabase: SUPPORT_ARCH_32=
+Loading variable from Metabase: SUPPORT_ARCH_64=
+Loading variable from Metabase: SUPPORT_ARCH_X64=true
+Localizing COMMENTS
+Localization result: Storage Manager Client v$CLIENT_VERSION$, Storage Manager Agent v$AGENT_VERSION$, Storage Manager RDAC v$MPP_VERSION$, Storage Manager Utilities v$UTIL_VERSION$
+Substituted: Storage Manager Client v10.86.0G05.0043, Storage Manager Agent v10.02.0305.0000, Storage Manager RDAC v0, Storage Manager Utilities v10.01.0305.0000
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+Localizing WINDOWS_AUTO_WARN
+Localization result: A subsequent screen asks you to choose how to start the monitor.
+Substituted: A subsequent screen asks you to choose how to start the monitor.
+Localizing WINDOWS_JAB_NOTE
+Localization result: Also, if needed, use this option to install the Java Accessibility Bridge.
+Substituted: Also, if needed, use this option to install the Java Accessibility Bridge.
+Localizing AUTO_START_NOTE
+Localization result: Important: 
+- You must start the monitoring service to use the following features: (1) Alert generation/delivery, and (2) Support bundle collection.
+- It is best to only start the event monitor on a single machine that has 24 hour-access to the storage arrays.
+Substituted: Important: 
+- You must start the monitoring service to use the following features: (1) Alert generation/delivery, and (2) Support bundle collection.
+- It is best to only start the event monitor on a single machine that has 24 hour-access to the storage arrays.
+Localizing AUTO_START_NOTE_CATERA
+Localization result: Important: 
+- You must start the monitoring service to use the following features: (1) Alert generation/delivery, and (2) Support bundle collection.
+- It is best to only start the event monitor on a single machine that has 24 hour-access to the storage subsystem.
+Substituted: Important: 
+- You must start the monitoring service to use the following features: (1) Alert generation/delivery, and (2) Support bundle collection.
+- It is best to only start the event monitor on a single machine that has 24 hour-access to the storage subsystem.
+Localizing AUTO_START_QUESTION
+Localization result: The $MONITOR_NAME$ will be installed. 
+Substituted: The IBM DS Storage Manager 10 Event Monitor will be installed. 
+Localizing AUTO_START_BUTTON_INFO_0
+Localization result: Automatically start monitor:;Automatically start the monitor when the installation completes and whenever the computer is rebooted.
+Substituted: Automatically start monitor:;Automatically start the monitor when the installation completes and whenever the computer is rebooted.
+Localizing AUTO_START_BUTTON_INFO_1
+Localization result: Do not automatically start the monitor:;Instead of automatically starting the monitor, you will need to start the monitor service manually.
+Substituted: Do not automatically start the monitor:;Instead of automatically starting the monitor, you will need to start the monitor service manually.
+Localizing AUTO_START_TITLE
+Localization result: Automatically Start Monitor?
+Substituted: Automatically Start Monitor?
+layoutButtonPanel: m_Buttons.getSelection(): null
+layoutButtonPanel: Disabling Next button
+actionPerformed: Enabling Next button
+actionPerformed: selected Radio button: 1
+Setting value AUTO_START_CHOICE: 1
+Required is  : 434000128
+Available is : 20597755904
+Able to install : TRUE
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+================================ query registry ================
+CDS: Assuming sufficient disk space. (V)
+#
+# INSTALLING VM: C:\Program Files (x86)\IBM_DS\ia\jre
+#
+XMLScriptWriter: No Installation Objects were skipped
+ExtractToFile: target = C:\Program Files (x86)\IBM_DS\Uninstall IBM System Storage DS Storage Manager 10\Uninstall IBM System Storage DS Storage Manager 10.exe
+ExtractToFile: extractWhatURL = jar:file:/C:/Users/G/AppData/Local/Temp/I1472540179/InstallerData/Execute.zip!/makeExecutable/lax_gui_admin.exe
+Key_Only && trueParentKey = true.
+Localizing COMMENTS_STRING
+Localization result: SMclient (v$ACTUAL_CLIENT_VERSION$)
+Substituted: SMclient (v10.86.0G05.0043)
+Retrying Installables deferred in pass 0
+Deferral retries done because: 
+There were no deferrals in the last pass.
+RepositoryManager: repository successfully written to stable storage
+RepositoryManager: repository successfully written to stable storage
+Localizing PRODUCT_NAME
+Localization result: IBM System Storage DS Storage Manager 10
+Substituted: IBM System Storage DS Storage Manager 10
+SHUTDOWN REQUESTED
+(X) commiting registry
+
+REGISTRY ALREADY STORED!
+
+(X) shutting down service manager
+(X) cleaning up temporary directories
+cleanUp()
+calling cleanUpWin32()
+
+Exiting with exit code: 0
